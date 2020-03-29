@@ -1,1 +1,1 @@
-# Como cancelar um fetch request usando abortController
+# Como cancelar uma promessa
