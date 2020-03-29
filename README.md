@@ -1,1 +1,1 @@
-# Como cancelar um featch request usando abortController
+# Como cancelar um fetch request usando abortController
